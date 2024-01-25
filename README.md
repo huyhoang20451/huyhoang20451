@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huyhoang20451
 - 👀 I’m interested in swimming, cycling
-- 🌱 I’m currently learning AI code with Python and SQL, Mathematics for ML
+- 🌱 I’m currently learning AI code with Python and SQL, Mathematics for ML, 日本 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He
